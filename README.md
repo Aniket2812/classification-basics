@@ -1,2 +1,2 @@
 # classification-basics
-learning..
+basic classification models 
